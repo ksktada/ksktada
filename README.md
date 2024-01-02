@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ksktada
 - 👀 I’m interested in Software Engineering.
 - 🌱 I’m currently learning architecting.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 ksktada/ksktada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
