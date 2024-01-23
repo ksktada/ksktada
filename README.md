@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ksktada
-- 👀 I’m interested in Software Engineering.
+- 👀 I’m interested in Software Engineering and Architecture.
 - 🌱 I’m currently learning architecting.
 
 <!---
