@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ksktada
 - 👀 I’m interested in Software Engineering and Architecture.
 - 🌱 I’m currently learning architecting.
-- I'm also interested in Rust.
 
 <!---
 ksktada/ksktada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
